@@ -3,11 +3,6 @@
 #
 
 rm(list=ls())
-graphics.off()
-
-
-
-setwd("~/Dropbox/Research/Active/Flu in US cities/Data")
 flu <- read.csv("influenza_cities.csv")
 
 
