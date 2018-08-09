@@ -1,2 +1,2 @@
-# Urbanization and climate shape the geometry of influenza epidemics in US cities
+# Predictable differences in the intensity of influenza epidemics among US cities
 Code and data for Dalziel et al. 2018 Science
