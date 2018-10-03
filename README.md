@@ -2,7 +2,7 @@
 
 Urbanization and humidity shape the intensity of influenza epidemics in US cities
 
-The file influenza_cities.csv contains the data required to reproduce the statistical analyses:
+The file influenza_cities.csv contains the data required to reproduce the main statistical analyses:
 
 | Column name    | Meaning                              |
 | ---------------| ------------------------------------ |
