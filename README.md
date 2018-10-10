@@ -1,6 +1,6 @@
-# Code and data for Dalziel et al. 2018 Science
+# Code and data for Dalziel et al. 2018 Science 362
 
-Urbanization and humidity shape the intensity of influenza epidemics in US cities
+Citation: Dalziel BD, Kissler S, Gog JR, Viboud C, Bjørnstad ON, Metcalf CJE, Grenfell BT. 2018. Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities. Science 362, 75–79.
 
 The file influenza_cities.csv contains the data required to reproduce the main statistical analyses:
 
